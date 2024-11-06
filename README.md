@@ -23,13 +23,12 @@
 ```
 
 ### 模拟器实图
-![musicList](https://github.com/user-attachments/assets/841e8b8e-1cf8-4098-86e2-72c7acaeee87)
-![videoPlaying](https://github.com/user-attachments/assets/485451df-bb53-44f8-9aec-eaf4f02164a2)
-![videoList](https://github.com/user-attachments/assets/5003028c-6680-45d1-bbbd-69ccca356e76)
-![playList](https://github.com/user-attachments/assets/9a0a8c95-4993-4146-a7b5-53c1636f03ab)
-![musicPlayPage](https://github.com/user-attachments/assets/eb5180e8-5e94-46d9-8f30-ba0d549610a4)
-![musicPlaying](https://github.com/user-attachments/assets/a6f0768a-a0d9-4fe4-aaf0-b087775b0262)
-
+![videoPlaying](https://github.com/user-attachments/assets/91b9f5e0-8d3a-4382-a576-53240db1369b)
+![videoList](https://github.com/user-attachments/assets/9380b445-0920-4bd0-8367-8a4753e3105c)
+![musicList](https://github.com/user-attachments/assets/202c3b18-96c3-4654-95c1-a509449a3e2c)
+![musicPlayPage](https://github.com/user-attachments/assets/52dd93e9-4e00-414d-87cb-a99ccc0fcf83)
+![musicPlaying](https://github.com/user-attachments/assets/5b79b39e-389b-4bcb-b608-d36b6679a692)
+![playList](https://github.com/user-attachments/assets/84485438-61e1-4500-80f0-a443c3e774a6)
 
 ### 使用说明
 
