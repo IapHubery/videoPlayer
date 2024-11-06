@@ -22,6 +22,13 @@
 ]
 ```
 
+### 模拟器实图
+![musicList](https://github.com/user-attachments/assets/841e8b8e-1cf8-4098-86e2-72c7acaeee87)
+![videoPlaying](https://github.com/user-attachments/assets/485451df-bb53-44f8-9aec-eaf4f02164a2)
+![videoList](https://github.com/user-attachments/assets/5003028c-6680-45d1-bbbd-69ccca356e76)
+![playList](https://github.com/user-attachments/assets/9a0a8c95-4993-4146-a7b5-53c1636f03ab)
+![musicPlayPage](https://github.com/user-attachments/assets/eb5180e8-5e94-46d9-8f30-ba0d549610a4)
+![musicPlaying](https://github.com/user-attachments/assets/a6f0768a-a0d9-4fe4-aaf0-b087775b0262)
 
 
 ### 使用说明
